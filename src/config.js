@@ -1,0 +1,10 @@
+export const API_KEY = "2GD5CDDL5MR550UF";
+export const NEWS_KEY = "a1zibdp2p5dyvguq1h3quxkf5mwtrab4igoynbbu";
+export const FB_API_KEY = "AIzaSyCuT1AE02UbybCV1y6mkGOCCY6nqTugZZM";
+export const FB_AUTH_DOMAIN = "stockwatchlist-b3e68.firebaseapp.com";
+export const FB_DATABASE_URL = "https://stockwatchlist-b3e68.firebaseio.com";
+export const FB_PROJECT_ID = "stockwatchlist-b3e68";
+export const FB_STORAGE_BUCKET = "stockwatchlist-b3e68.appspot.com";
+export const FB_SENDER_ID = "812343928657";
+export const FB_APP_ID = "1:812343928657:web:6ba215b9409010759ed570";
+export const FB_MEASUREMENT_ID = "G-77LYXRM32P";
