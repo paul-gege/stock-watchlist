@@ -19,7 +19,7 @@ const Watchlist = (props) => {
             message = message.concat("\n", item.symbol, ": $" ,item.price, "\n");
         });
         console.log(message);
-        fetch(`http://127.0.0.1:3000/send-message`, {
+        fetch(`https://127.0.0.1:3000/send-message`, {
             method: "POST",
             headers: {
                 Accept: "application/json",
