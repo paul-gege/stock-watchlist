@@ -19,7 +19,7 @@ const Watchlist = (props) => {
             message = message.concat("\n", item.symbol, ": $" ,item.price, "\n");
         });
         console.log(message);
-        fetch(`https://127.0.0.1:3000/send-message`, {
+        fetch(`https://dry-reef-15467.herokuapp.com/send-message`, {
             method: "POST",
             headers: {
                 Accept: "application/json",
